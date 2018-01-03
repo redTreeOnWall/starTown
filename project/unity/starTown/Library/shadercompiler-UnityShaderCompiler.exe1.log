@@ -1,0 +1,76 @@
+Base path: C:/Program Files/Unity2017_2/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1661 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=4757 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2077 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=6857 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=6269 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=3741 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1709 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1889 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1473 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2129 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2505 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2469 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1289 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2177 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2161 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2161 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1513 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1357 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1365 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1369 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1365 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=4189 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9197 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9197 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9201 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9173 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9173 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9177 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9297 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at (0): Program 'NoiseSwissNormal', warning X4714: sum of temp registers and indexable temp registers times 1024 threads exceeds the recommended total 16384.  Performance may be reduced
+  api=4 insize=73793 outsize=10053 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at (0): Program 'NoiseJordanSimplex', warning X4714: sum of temp registers and indexable temp registers times 1024 threads exceeds the recommended total 16384.  Performance may be reduced
+  api=4 insize=73793 outsize=13461 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9197 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=7629 ok=1

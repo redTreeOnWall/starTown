@@ -1,0 +1,67 @@
+Base path: C:/Program Files/Unity2017_2/Editor/Data
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=4981 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=4701 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=5713 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=3713 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9561 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2185 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=3081 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2425 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1993 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2325 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=2233 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1393 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1829 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1417 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1373 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1365 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=1365 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=4189 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9197 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9197 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9201 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9173 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9173 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9177 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9297 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=8149 ok=1
+Cmd: compileComputeKernel
+  error: 1 plat 4 at (0): Program 'NoiseJordanNormal', warning X4714: sum of temp registers and indexable temp registers times 1024 threads exceeds the recommended total 16384.  Performance may be reduced
+  api=4 insize=73793 outsize=13529 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9201 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=8669 ok=1
+Cmd: compileComputeKernel
+  api=4 insize=73793 outsize=9745 ok=1

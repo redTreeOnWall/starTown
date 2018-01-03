@@ -1,0 +1,7410 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &100402
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 462004}
+  - component: {fileID: 11453404}
+  m_Layer: 0
+  m_Name: Mask Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &101636
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 474364}
+  - component: {fileID: 11445414}
+  m_Layer: 0
+  m_Name: Select Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &101878
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 411022}
+  - component: {fileID: 11475780}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &103036
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 456152}
+  - component: {fileID: 11449466}
+  m_Layer: 0
+  m_Name: Grass&Rock
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &106394
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 429148}
+  - component: {fileID: 11438850}
+  m_Layer: 0
+  m_Name: ItemGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &107916
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 491882}
+  - component: {fileID: 11418724}
+  m_Layer: 0
+  m_Name: Layer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &107978
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 407078}
+  - component: {fileID: 11458494}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &108122
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 478932}
+  - component: {fileID: 11432842}
+  m_Layer: 0
+  m_Name: Layer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &108374
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 418440}
+  - component: {fileID: 11466266}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &110376
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 426806}
+  - component: {fileID: 11447546}
+  m_Layer: 0
+  m_Name: ItemGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &120276
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 463716}
+  - component: {fileID: 11412962}
+  m_Layer: 0
+  m_Name: Mask Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &121204
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 455628}
+  - component: {fileID: 11499458}
+  m_Layer: 0
+  m_Name: Mask Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &127316
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 497116}
+  - component: {fileID: 11459036}
+  m_Layer: 0
+  m_Name: Dirt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &127752
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 447800}
+  - component: {fileID: 11401098}
+  m_Layer: 0
+  m_Name: Mask Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &128868
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 471672}
+  - component: {fileID: 11411674}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &134906
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 442552}
+  - component: {fileID: 11434350}
+  m_Layer: 0
+  m_Name: ItemGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &142480
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 415942}
+  - component: {fileID: 11494362}
+  m_Layer: 0
+  m_Name: ItemGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &142742
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 487336}
+  - component: {fileID: 11416252}
+  m_Layer: 0
+  m_Name: Forest&Moss
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &143360
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 494924}
+  - component: {fileID: 11456234}
+  m_Layer: 0
+  m_Name: Rock
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &144076
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 469212}
+  - component: {fileID: 11479988}
+  m_Layer: 0
+  m_Name: Select Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &149270
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 446244}
+  - component: {fileID: 11411766}
+  m_Layer: 0
+  m_Name: Forest&Leaves
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &149790
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 460578}
+  - component: {fileID: 11486336}
+  m_Layer: 0
+  m_Name: Layer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &155116
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 497104}
+  - component: {fileID: 11422588}
+  m_Layer: 0
+  m_Name: Select Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &156976
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 446750}
+  - component: {fileID: 11496370}
+  m_Layer: 0
+  m_Name: Forest&Sand
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &161948
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 420504}
+  - component: {fileID: 11453530}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &162504
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 428970}
+  - component: {fileID: 11438454}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &166076
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 422902}
+  - component: {fileID: 11419276}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &170480
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 451428}
+  - component: {fileID: 11438964}
+  m_Layer: 0
+  m_Name: Layer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &172308
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 482268}
+  - component: {fileID: 11480728}
+  m_Layer: 0
+  m_Name: Convexity
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &173198
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 428876}
+  - component: {fileID: 11477252}
+  m_Layer: 0
+  m_Name: ItemGroup
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &176982
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 405820}
+  - component: {fileID: 11493570}
+  m_Layer: 0
+  m_Name: Grass
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &177692
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 486946}
+  - component: {fileID: 11432434}
+  m_Layer: 0
+  m_Name: Select Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &181734
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 462146}
+  - component: {fileID: 11474074}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &182216
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 438246}
+  - component: {fileID: 11408092}
+  m_Layer: 0
+  m_Name: Result
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &186868
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 436780}
+  - component: {fileID: 11430406}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &190026
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 436908}
+  - component: {fileID: 11478458}
+  m_Layer: 0
+  m_Name: Mask Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &191322
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 485144}
+  - component: {fileID: 11411878}
+  m_Layer: 0
+  m_Name: Node
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &191726
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 468124}
+  - component: {fileID: 11464898}
+  m_Layer: 0
+  m_Name: Mask Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &192052
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 494700}
+  - component: {fileID: 11484200}
+  m_Layer: 0
+  m_Name: Select Group
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &194020
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 471218}
+  - component: {fileID: 11499088}
+  m_Layer: 0
+  m_Name: Layer
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!1 &198620
+GameObject:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 423816}
+  - component: {fileID: 11481922}
+  m_Layer: 0
+  m_Name: Cliff
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &405820
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176982}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 442552}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &407078
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107978}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.82283217, y: 0.5194609, z: 0.82283217}
+  m_Children: []
+  m_Father: {fileID: 463716}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &411022
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101878}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 468124}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &415942
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142480}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 456152}
+  - {fileID: 446244}
+  m_Father: {fileID: 460578}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &418440
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 108374}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: -0.08277907, y: 0.5194609, z: -0.08277901}
+  m_Children: []
+  m_Father: {fileID: 486946}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &420504
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161948}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: -0.08277907, y: 0.5194609, z: -0.08277901}
+  m_Children: []
+  m_Father: {fileID: 469212}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &422902
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 166076}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.576318, z: 1}
+  m_Children: []
+  m_Father: {fileID: 462004}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &423816
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 198620}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 429148}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &426806
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110376}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 446750}
+  - {fileID: 497116}
+  m_Father: {fileID: 478932}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &428876
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173198}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 494924}
+  m_Father: {fileID: 471218}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &428970
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 162504}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 497104}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &429148
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106394}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 423816}
+  m_Father: {fileID: 451428}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &436780
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 186868}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.576318, z: 1}
+  m_Children: []
+  m_Father: {fileID: 436908}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &436908
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 190026}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 436780}
+  m_Father: {fileID: 491882}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &438246
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 182216}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 471218}
+  - {fileID: 451428}
+  - {fileID: 491882}
+  - {fileID: 460578}
+  - {fileID: 478932}
+  m_Father: {fileID: 482268}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &442552
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134906}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 487336}
+  - {fileID: 405820}
+  m_Father: {fileID: 491882}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &446244
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149270}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.82283217, y: 0.5194609, z: 0.82283217}
+  m_Children: []
+  m_Father: {fileID: 415942}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &446750
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156976}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 426806}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &447800
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 127752}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 478932}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &451428
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 170480}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 468124}
+  - {fileID: 497104}
+  - {fileID: 429148}
+  m_Father: {fileID: 438246}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &455628
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 121204}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 482268}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &456152
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 103036}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 415942}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &460578
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149790}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.2153146, y: 1.9250726, z: 1.2153146}
+  m_Children:
+  - {fileID: 463716}
+  - {fileID: 469212}
+  - {fileID: 415942}
+  m_Father: {fileID: 438246}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &462004
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100402}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 422902}
+  m_Father: {fileID: 471218}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &462146
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181734}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1.576318, z: 1}
+  m_Children: []
+  m_Father: {fileID: 463716}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &463716
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120276}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 407078}
+  - {fileID: 462146}
+  m_Father: {fileID: 460578}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &468124
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 191726}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 411022}
+  m_Father: {fileID: 451428}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &469212
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144076}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 420504}
+  m_Father: {fileID: 460578}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &471218
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 194020}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.2153146, y: 1.9250726, z: 1.2153146}
+  m_Children:
+  - {fileID: 462004}
+  - {fileID: 474364}
+  - {fileID: 428876}
+  m_Father: {fileID: 438246}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &471672
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128868}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: -0.5403931, y: 1, z: -0.54039276}
+  m_Children: []
+  m_Father: {fileID: 494700}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &474364
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101636}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 485144}
+  m_Father: {fileID: 471218}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &478932
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 108122}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 447800}
+  - {fileID: 494700}
+  - {fileID: 426806}
+  m_Father: {fileID: 438246}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &482268
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172308}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 455628}
+  - {fileID: 438246}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &485144
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 191322}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 474364}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &486946
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177692}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 418440}
+  m_Father: {fileID: 491882}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &487336
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142742}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.82283217, y: 0.5194609, z: 0.82283217}
+  m_Children: []
+  m_Father: {fileID: 442552}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &491882
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107916}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1.2153146, y: 1.9250726, z: 1.2153146}
+  m_Children:
+  - {fileID: 436908}
+  - {fileID: 486946}
+  - {fileID: 442552}
+  m_Father: {fileID: 438246}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &494700
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 192052}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 471672}
+  m_Father: {fileID: 478932}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &494924
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143360}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 428876}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &497104
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 155116}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 428970}
+  m_Father: {fileID: 451428}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 179.999, y: 179.999, z: 179.999}
+--- !u!4 &497116
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 127316}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 426806}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11401098
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 127752}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 0
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 447800}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12616
+  firstActive: -1
+  lastActive: -1
+  totalActive: 0
+  nodeGroupLevel: 0
+  type: 1
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11408092
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 182216}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c51bf04b1b13f948984a6026fe3700b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 3
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 438246}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -327184
+  firstActive: 0
+  lastActive: 4
+  totalActive: 5
+  itemList:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  seed: 0
+--- !u!114 &11411674
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 128868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 471672}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: -0.5403931, y: 1, z: -0.54039276}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12628
+  inputKind: 1
+  inputTerrain: 0
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 0
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 1
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 0
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11411766
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149270}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: b6a5b4571804e7f4a86c2391953490b7, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 446244}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314942
+  range: {x: 0, y: 0.5}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 1, g: 0, b: 1, a: 1}
+  selectIndex: 4
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11411878
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 191322}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 485144}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1.2153146, y: 1.9250726, z: 1.2153146}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12896
+  inputKind: 0
+  inputTerrain: 0
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 0
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 1
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 0
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11412962
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 120276}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 463716}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314912
+  firstActive: 1
+  lastActive: 1
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 1
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11416252
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: 87417352c06c3fd489064da0fc9cb54c, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 487336}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -309284
+  range: {x: 0.5, y: 1}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 0, g: 1, b: 0, a: 1}
+  selectIndex: 2
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11418724
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92c8207fdff99f4c8a371e001b49de8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 4
+  notes: 
+  listIndex: 2
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 2
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 491882}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -264750
+  doNormalize: 0
+  placeLimit: 0.5
+  selectValue: 0
+  maskValue: 0
+  seed: 0
+--- !u!114 &11419276
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 166076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 0
+  worldCurve:
+    active: 1
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 2
+  t: {fileID: 422902}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1.2153146, y: 1.576318, z: 1.2153146}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -13584
+  inputKind: 0
+  inputTerrain: 5
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 1
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 4
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 6.05
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11422588
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 155116}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 497104}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -233520
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 0
+  rtColorPreview: {fileID: 0}
+  useConstant: 1
+  seed: 0
+--- !u!114 &11430406
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 186868}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 0
+  worldCurve:
+    active: 1
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 2
+  t: {fileID: 436780}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1.2153146, y: 1.576318, z: 1.2153146}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -264762
+  inputKind: 0
+  inputTerrain: 5
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 1
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 4
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 3
+  convexityMode: 0
+  convexityStrength: -1.81
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11432434
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 177692}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 486946}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -264768
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 0
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11432842
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 108122}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92c8207fdff99f4c8a371e001b49de8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 4
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 2
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 478932}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12610
+  doNormalize: 0
+  placeLimit: 0.5
+  selectValue: 0
+  maskValue: 0
+  seed: 0
+--- !u!114 &11434350
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 134906}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374e75d7181d7a243afeeaf0dc18127d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 2
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 442552}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -264780
+  firstActive: 0
+  lastActive: 0
+  totalActive: 2
+  itemList: []
+  refreshRanges: 0
+  splatMixBuffer:
+  - select: {x: -0.0005, y: 0.5, z: 1999.9999, w: 3}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  - select: {x: 0.4995, y: 1, z: 1999.9999, w: 2}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  colorMixBuffer: []
+  indices: []
+  endT: {fileID: 0}
+  scaleMinMaxMulti: {x: 1, y: 1}
+  scaleMulti: 1
+  mix: 0
+  scale: 1
+  linkScaleToMask: 1
+  untouched: 1
+--- !u!114 &11438454
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 162504}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 428970}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -233526
+  inputKind: 0
+  inputTerrain: 0
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 0
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 1
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 0
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11438850
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 106394}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374e75d7181d7a243afeeaf0dc18127d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 2
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 429148}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -233532
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  itemList: []
+  refreshRanges: 0
+  splatMixBuffer:
+  - select: {x: -0.001, y: 1, z: 999.99994, w: 7}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  colorMixBuffer: []
+  indices: []
+  endT: {fileID: 0}
+  scaleMinMaxMulti: {x: 1, y: 1}
+  scaleMulti: 1
+  mix: 0
+  scale: 1
+  linkScaleToMask: 1
+  untouched: 1
+--- !u!114 &11438964
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 170480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92c8207fdff99f4c8a371e001b49de8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 4
+  notes: 
+  listIndex: 3
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 2
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 451428}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -233508
+  doNormalize: 0
+  placeLimit: 0.5
+  selectValue: 0
+  maskValue: 0
+  seed: 0
+--- !u!114 &11445414
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101636}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 474364}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12890
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 0
+  rtColorPreview: {fileID: 0}
+  useConstant: 1
+  seed: 0
+--- !u!114 &11447546
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 110376}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374e75d7181d7a243afeeaf0dc18127d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 2
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 426806}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12634
+  firstActive: 0
+  lastActive: 0
+  totalActive: 2
+  itemList: []
+  refreshRanges: 0
+  splatMixBuffer:
+  - select: {x: -0.0005, y: 0.5, z: 1999.9999, w: 0}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  - select: {x: 0.4995, y: 1, z: 1999.9999, w: 1}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  colorMixBuffer: []
+  indices: []
+  endT: {fileID: 0}
+  scaleMinMaxMulti: {x: 1, y: 1}
+  scaleMulti: 1
+  mix: 0
+  scale: 1
+  linkScaleToMask: 1
+  untouched: 1
+--- !u!114 &11449466
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 103036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: 440eb36db91ca410f800ff3cfe43572f, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 456152}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314948
+  range: {x: 0.5, y: 1}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 0, g: 1, b: 1, a: 1}
+  selectIndex: 5
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11453404
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 100402}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 462004}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12884
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 1
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11453530
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 161948}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 420504}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: -0.10060262, y: 0.99999994, z: -0.100602545}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314930
+  inputKind: 1
+  inputTerrain: 0
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 0
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 1
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 0
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11456234
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 143360}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: 25c6c8c747fbba1459a95ec6e0225f3c, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 494924}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -13094
+  range: {x: 0, y: 1}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 1, g: 1, b: 1, a: 1}
+  selectIndex: 6
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11458494
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 107978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 1
+    range: {x: 0.14, y: 0.31242856}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 2
+  t: {fileID: 407078}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 0.99999994, y: 0.5194609, z: 0.99999994}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -316700
+  inputKind: 0
+  inputTerrain: 1
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 1
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 1
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 0
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11459036
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 127316}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: bfd675cc0db1d4656b75dc6d6ba91142, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 497116}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12700
+  range: {x: 0, y: 0.5}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 1, g: 0, b: 0, a: 1}
+  selectIndex: 0
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11464898
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 191726}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 468124}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -233514
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 1
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11466266
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 108374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 418440}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: -0.10060262, y: 0.99999994, z: -0.100602545}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -309756
+  inputKind: 1
+  inputTerrain: 0
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 0
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 1
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 0
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11474074
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 181734}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 0
+  active: 0
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 0
+  worldCurve:
+    active: 1
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 2
+  t: {fileID: 462146}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1.2153146, y: 1.576318, z: 1.2153146}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314918
+  inputKind: 0
+  inputTerrain: 5
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 1
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 4
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 3
+  convexityMode: 0
+  convexityStrength: -1.26
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11475780
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 101878}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1eedde5e530e0a74e949e820235d90d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 1
+    range: {x: 0.46, y: 0.75142854}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c:
+    - {x: -0, y: -0, z: 1, w: -0}
+    curveKeys:
+    - 0
+    - 1
+    length: 2
+  t: {fileID: 411022}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 1}
+    scale: {x: 1, y: 1, z: 1}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -234562
+  inputKind: 0
+  inputTerrain: 1
+  inputNoise: 0
+  inputShape: 0
+  inputFile: 0
+  inputCurrent: 0
+  inputPortal: 0
+  nodeType: 1
+  collisionMode: 0
+  collisionDirection: 0
+  blurMode: 0
+  nodeGroupLevel: 0
+  wrapMode: 1
+  clamp: 0
+  radius: 300
+  rawImage: {fileID: 0}
+  image: {fileID: 0}
+  imageSettings:
+    colSelectMode: 1
+    colChannels:
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+    - active: 1
+      range: {x: 0, y: 255}
+  square: 0
+  splatSelectIndex: 0
+  noise:
+    mode: 0
+    cellMode: 0
+    frequency: 100
+    lacunarity: 2
+    octaves: 6
+    persistence: 0.5
+    seed: 0
+    amplitude: 7
+    warp0: 0.5
+    warp: 0.25
+    damp0: 0.8
+    damp: 1
+    dampScale: 1
+    cellType: 1
+    distanceFunction: 1
+  shapes:
+    topSize: {x: 500, y: 500}
+    bottomSize: {x: 1000, y: 1000}
+    size: 500
+  iterations: 1
+  detectRange: {x: 0.003921569, y: 0.003921569}
+  mipmapLevel: 1
+  convexityMode: 0
+  convexityStrength: 0
+  stampTex: {fileID: 0}
+  pathTexStamp: 
+  isStampInResourcesFolder: 0
+  resourcesFolder: 
+  posYOld: 0
+  collisionMask: -1
+  heightDetectRange: 0
+  includeTerrainHeight: 1
+  range: {x: 0, y: 0}
+  useConstant: 0
+  size: {x: 2048, y: 0, z: 2048}
+--- !u!114 &11477252
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 173198}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374e75d7181d7a243afeeaf0dc18127d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 2
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 428876}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12902
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  itemList: []
+  refreshRanges: 0
+  splatMixBuffer:
+  - select: {x: -0.001, y: 1, z: 999.99994, w: 6}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  colorMixBuffer: []
+  indices: []
+  endT: {fileID: 0}
+  scaleMinMaxMulti: {x: 1, y: 1}
+  scaleMulti: 1
+  mix: 0
+  scale: 1
+  linkScaleToMask: 1
+  untouched: 1
+--- !u!114 &11478458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 190026}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 436908}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -264756
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 1
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11479988
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 144076}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 469212}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314924
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 0
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11480728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 172308}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bd4d9bc59811b4478d9caa23a58f393, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 2
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 2
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 482268}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -327172
+  doNormalize: 0
+  placeLimit: 0.5
+  nodePos: {x: 0, y: 0}
+  seed: 0
+--- !u!114 &11481922
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 198620}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: 18214e9d6af6248559d501391856f1c7, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 423816}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -233538
+  range: {x: 0, y: 1}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+  selectIndex: 7
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11484200
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 192052}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 494700}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12622
+  firstActive: 0
+  lastActive: 0
+  totalActive: 1
+  nodeGroupLevel: 0
+  type: 0
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!114 &11486336
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 149790}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92c8207fdff99f4c8a371e001b49de8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 4
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 2
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 460578}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314906
+  doNormalize: 0
+  placeLimit: 0.5
+  selectValue: 0
+  maskValue: 0
+  seed: 0
+--- !u!114 &11493570
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 176982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: c6e0767b1f8c34890ac245217f4b9731, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 405820}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -264786
+  range: {x: 0, y: 0.5}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+  selectIndex: 3
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11494362
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 142480}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 374e75d7181d7a243afeeaf0dc18127d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 5
+  notes: 
+  listIndex: 2
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 415942}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -314936
+  firstActive: 0
+  lastActive: 0
+  totalActive: 2
+  itemList: []
+  refreshRanges: 0
+  splatMixBuffer:
+  - select: {x: -0.0005, y: 0.5, z: 1999.9999, w: 4}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  - select: {x: 0.4995, y: 1, z: 1999.9999, w: 5}
+    map0: {x: 0, y: 0, z: 0, w: 0}
+    map1: {x: 0, y: 0, z: 0, w: 0}
+  colorMixBuffer: []
+  indices: []
+  endT: {fileID: 0}
+  scaleMinMaxMulti: {x: 1, y: 1}
+  scaleMulti: 1
+  mix: 0
+  scale: 1
+  linkScaleToMask: 1
+  untouched: 1
+--- !u!114 &11496370
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 156976}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9420a0f7eb59644ab72808eff0379be, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 6
+  notes: 
+  listIndex: 1
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 2800000, guid: 7c6442a1108e8714da08ba13ba0d0c89, type: 3}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 446750}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -305344
+  range: {x: 0.5, y: 1}
+  oldSpawnObject: {fileID: 0}
+  tree:
+    randomPosition: 1
+    heightOffset: 0
+    scaleRange: {x: 0.5, y: 2}
+    nonUniformScale: 0.2
+    scaleMulti: 1
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+  spawnObject:
+    go: {fileID: 0}
+    linkToPrefab: 0
+    randomPosition: 1
+    heightRange: {x: 0, y: 0}
+    includeScale: 0
+    heightOffset: 0
+    includeTerrainHeight: 1
+    rotRangeX: {x: 0, y: 0}
+    rotRangeY: {x: 0, y: 0}
+    rotRangeZ: {x: 0, y: 0}
+    isSnapRot: 0
+    isSnapRotX: 1
+    isSnapRotY: 1
+    isSnapRotZ: 1
+    snapRotX: 45
+    snapRotY: 45
+    snapRotZ: 45
+    scaleRange: {x: 1, y: 1}
+    scaleMulti: 1
+    nonUniformScale: 0
+    scaleCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    lookAtTarget: {fileID: 0}
+    lookAtX: 0
+  color: {r: 0, g: 0, b: 1, a: 1}
+  selectIndex: 1
+  splatCustomValues: []
+  splatCustom: 0
+  splatCustomTotal: 0
+  globalListIndex: 0
+--- !u!114 &11499088
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 194020}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f92c8207fdff99f4c8a371e001b49de8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 1
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 4
+  notes: 
+  listIndex: 4
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 2
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 471218}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -12878
+  doNormalize: 0
+  placeLimit: 0.5
+  selectValue: 0
+  maskValue: 0
+  seed: 0
+--- !u!114 &11499458
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 121204}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9af1e75c8149e7044a3ea3a669fe0b1b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  versionNumber: 0
+  defaultPreset: 0
+  isLocked: 0
+  autoGenerate: 1
+  visible: 1
+  active: 0
+  foldout: 2
+  nodeFoldout: 1
+  outputId: 1
+  terrainLevel: 0
+  level: 3
+  notes: 
+  listIndex: 0
+  firstLoad: 1
+  preview:
+    edit: 0
+    tex: {fileID: 0}
+  rtDisplay: {fileID: 0}
+  rtPreview: {fileID: 0}
+  method: 0
+  opacity: 1
+  abs: 0
+  localCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  worldCurve:
+    active: 0
+    range: {x: 0, y: 1}
+    curve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 2
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+      - serializedVersion: 2
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    c: []
+    curveKeys: []
+    length: 0
+  t: {fileID: 455628}
+  parentOld: {fileID: 0}
+  siblingIndexOld: -1
+  ct:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  ctOld:
+    position: {x: 0, y: 0, z: 0}
+    posOffset: {x: 0, y: 0, z: 0}
+    rotation: {x: 0, y: 0, z: 0, w: 0}
+    scale: {x: 0, y: 0, z: 0}
+    positionYOld: 0
+  bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  lockTransform: 0
+  lockPosParent: 0
+  lockPosChildren: 0
+  lockPosX: 1
+  lockPosY: 1
+  lockPosZ: 1
+  lockRotY: 1
+  lockScaleX: 1
+  lockScaleY: 1
+  lockScaleZ: 1
+  positionMode: 0
+  posY: 0
+  posOffset: {x: 0, y: 0, z: 0}
+  controlDown: 0
+  instanceID: -327178
+  firstActive: -1
+  lastActive: -1
+  totalActive: 0
+  nodeGroupLevel: 0
+  type: 1
+  rtColorPreview: {fileID: 0}
+  useConstant: 0
+  seed: 0
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 172308}
+  m_IsPrefabParent: 1
